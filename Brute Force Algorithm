@@ -1,3 +1,4 @@
+Brute Force Algorithm -
 #define EOS '\0'
    
 void BF(char *x, int m, char *y, int n) { 
