@@ -7,3 +7,6 @@ void BF(char *x, int m, char *y, int n) {
     if (memcmp(x, y, m) == 0) 
       OUTPUT(y - yb);
 }
+
+
+//This is a brute force algo.
